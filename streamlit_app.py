@@ -1,13 +1,12 @@
 """
 Investment Dashboard - Streamlit Application
-Deploy on Streamlit Community Cloud or run locally with: streamlit run streamlit_app.py
+Run locally:  streamlit run streamlit_app.py
+Deploy:       push to GitHub, connect to share.streamlit.io
+Data files:   place PDFs and CSVs in a data/ subfolder next to this file
 """
 
 import os
 import sys
-import io
-import tempfile
-import shutil
 from pathlib import Path
 from datetime import date
 
@@ -15,7 +14,7 @@ import streamlit as st
 import plotly.graph_objects as go
 import pandas as pd
 
-# ── Page config ──────────────────────────────────────────────────────────────
+# ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Investment Dashboard",
     page_icon="📈",
@@ -44,8 +43,6 @@ st.markdown("""
         font-weight: 700;
         color: #e2e8f0;
     }
-    .metric-green { color: #34d399 !important; }
-    .metric-red   { color: #ef4444 !important; }
     .section-header {
         font-size: 16px;
         font-weight: 600;
@@ -53,13 +50,6 @@ st.markdown("""
         margin-bottom: 12px;
         padding-bottom: 6px;
         border-bottom: 1px solid #2d3152;
-    }
-    .upload-box {
-        background: #1e2235;
-        border: 2px dashed #4f8ef7;
-        border-radius: 12px;
-        padding: 32px;
-        text-align: center;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -98,15 +88,13 @@ def plot_layout(fig, height=320, **kwargs):
     return fig
 
 def fmt_dollar(v, show_sign=False):
-    if v is None:
-        return "—"
+    if v is None: return "—"
     sign = "+" if (show_sign and v >= 0) else ""
     s = f"${abs(v):,.0f}"
     return f"({s})" if v < 0 else f"{sign}{s}"
 
 def fmt_pct(v):
-    if v is None:
-        return "—"
+    if v is None: return "—"
     return f"{'+'if v>=0 else''}{v:.1f}%"
 
 def metric_card(label, value_html):
@@ -116,20 +104,18 @@ def metric_card(label, value_html):
     </div>"""
 
 
-# ── Session state: uploaded files live here across reruns ────────────────────
-if "uploaded_dir" not in st.session_state:
-    st.session_state.uploaded_dir = tempfile.mkdtemp(prefix="inv_dash_")
-if "file_manifest" not in st.session_state:
-    st.session_state.file_manifest = {}   # filename -> path on disk
+# ── Load data (cached so it only runs once per deploy) ────────────────────────
+@st.cache_resource(show_spinner="Loading portfolio data…")
+def load_data() -> InvestmentData:
+    data_dir = Path(__file__).parent / "data"
+    return InvestmentData(data_dir)
 
-UPLOAD_DIR = Path(st.session_state.uploaded_dir)
+data = load_data()
 
-
-# ── Load data from whatever is in the upload dir ─────────────────────────────
-@st.cache_resource
-def load_data(manifest_key: str) -> InvestmentData:
-    """Reload data whenever the set of uploaded files changes."""
-    return InvestmentData(UPLOAD_DIR)
+if not data.valuations:
+    st.error("No valuation files found in the `data/` folder. "
+             "Add your PDFs and CSVs there and redeploy.")
+    st.stop()
 
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
@@ -138,103 +124,7 @@ with st.sidebar:
     st.caption("Ramsay Family Investment Portfolio")
     st.divider()
 
-    # ── File uploader ────────────────────────────────────────────────────────
-    st.markdown("### Upload Data Files")
-    st.caption("Drag and drop your valuation PDFs and transaction CSVs here. "
-               "Files are kept for this session only.")
-
-    uploaded = st.file_uploader(
-        "Drop files here",
-        type=["pdf", "csv"],
-        accept_multiple_files=True,
-        label_visibility="collapsed",
-    )
-
-    # Save any new uploads to the temp directory
-    if uploaded:
-        changed = False
-        for f in uploaded:
-            dest = UPLOAD_DIR / f.name
-            if f.name not in st.session_state.file_manifest:
-                dest.write_bytes(f.read())
-                st.session_state.file_manifest[f.name] = str(dest)
-                changed = True
-
-        if changed:
-            # Clear cache so data reloads with new files
-            load_data.clear()
-
-    # Show what's loaded
-    manifest = st.session_state.file_manifest
-    if manifest:
-        pdfs = [n for n in manifest if n.lower().endswith(".pdf")]
-        csvs = [n for n in manifest if n.lower().endswith(".csv")]
-        if pdfs:
-            st.markdown(f"**Valuations** ({len(pdfs)})")
-            for n in sorted(pdfs):
-                st.caption(f"✅ {n}")
-        if csvs:
-            st.markdown(f"**Transactions** ({len(csvs)})")
-            for n in sorted(csvs):
-                st.caption(f"✅ {n}")
-
-        if st.button("🗑 Clear all files", use_container_width=True):
-            shutil.rmtree(UPLOAD_DIR, ignore_errors=True)
-            UPLOAD_DIR.mkdir()
-            st.session_state.file_manifest = {}
-            load_data.clear()
-            st.rerun()
-    else:
-        st.info("No files uploaded yet.")
-
-    st.divider()
-
-
-# ── Guard: need files before we can show anything ────────────────────────────
-if not st.session_state.file_manifest:
-    st.markdown("## Welcome to the Investment Dashboard")
-    st.markdown("""
-    To get started, **upload your files using the panel on the left**.
-
-    You need:
-    - **Valuation PDFs** — e.g. `RFT_Valuation_260601.pdf`
-    - **Transaction CSVs** — e.g. `RFT_Transactions_240603_to_260531.csv`
-
-    Files are stored only for your current session and are never shared.
-    """)
-
-    col1, col2 = st.columns(2)
-    with col1:
-        st.markdown("#### Valuation PDFs")
-        st.markdown("""
-        - `RFT_Valuation_XXXXXX.pdf`
-        - `Super_Valuation_XXXXXX.pdf` *(when available)*
-        - `Yasmar_Valuation_XXXXXX.pdf` *(when available)*
-        """)
-    with col2:
-        st.markdown("#### Transaction CSVs")
-        st.markdown("""
-        - `RFT_Transactions_*.csv`
-        - `Super_AUD_Transactions_*.csv`
-        - `Super_USD_Transactions_*.csv`
-        - `Yasmar_Transactions_*.csv`
-        """)
-    st.stop()
-
-
-# ── Load data ────────────────────────────────────────────────────────────────
-manifest_key = ",".join(sorted(st.session_state.file_manifest.keys()))
-data = load_data(manifest_key)
-
-if not data.valuations:
-    st.warning("Files uploaded but no valuation reports found. "
-               "Make sure your PDF filenames contain 'Valuation' "
-               "(e.g. `RFT_Valuation_260601.pdf`).")
-    st.stop()
-
-
-# ── Portfolio + period selectors ──────────────────────────────────────────────
-with st.sidebar:
+    # Portfolio selector — only show portfolios that have valuation data
     port_options = {"ALL": "All Portfolios (Consolidated)"}
     for k, cfg in PORTFOLIOS.items():
         port_options[k] = cfg["name"]
@@ -248,6 +138,7 @@ with st.sidebar:
         index=1 if len(port_options) > 1 else 0,
     )
 
+    st.divider()
     period_type = st.radio("Period View", ["Quarterly", "Annual"], horizontal=True)
 
     p_key = None if selected_portfolio == "ALL" else selected_portfolio
@@ -256,7 +147,7 @@ with st.sidebar:
     period_opts = {k: v for k, v in periods.items() if v["period_type"] == type_key}
 
     if not period_opts:
-        st.warning("No periods available.")
+        st.warning("No periods with data available.")
         st.stop()
 
     period_keys = sorted(period_opts.keys())
@@ -267,6 +158,15 @@ with st.sidebar:
         index=len(period_keys) - 1,
     )
     perf = period_opts[period_keys[selected_idx]]
+
+    st.divider()
+
+    # Data files summary
+    pdfs = sorted(p.name for p in (Path(__file__).parent / "data").glob("*Valuation*.pdf"))
+    csvs = sorted(p.name for p in (Path(__file__).parent / "data").glob("*.csv"))
+    with st.expander(f"📁 Data files ({len(pdfs)} valuations, {len(csvs)} CSVs)"):
+        for n in pdfs: st.caption(f"📄 {n}")
+        for n in csvs: st.caption(f"📊 {n}")
 
     st.divider()
     st.caption(f"**FX:** 1 USD = {data.fx_rate:.4f} AUD")
@@ -294,14 +194,14 @@ tax       = perf.get("tax", 0)
 contribs  = perf.get("contributions", 0)
 withdrwls = perf.get("withdrawals", 0)
 
-# ── KPI rows ──────────────────────────────────────────────────────────────────
+# ── KPI row 1 ─────────────────────────────────────────────────────────────────
 cols = st.columns(5)
 for col, (label, val, coloured) in zip(cols, [
-    ("Opening Value",  fmt_dollar(opening),          False),
-    ("Closing Value",  fmt_dollar(closing),          False),
-    ("Net Return ($)", fmt_dollar(net_ret_d, True),  True),
-    ("Net Return (%)", fmt_pct(net_ret_p),           True),
-    ("Annualised (%)", fmt_pct(ann_p),               True),
+    ("Opening Value",  fmt_dollar(opening),         False),
+    ("Closing Value",  fmt_dollar(closing),         False),
+    ("Net Return ($)", fmt_dollar(net_ret_d, True), True),
+    ("Net Return (%)", fmt_pct(net_ret_p),          True),
+    ("Annualised (%)", fmt_pct(ann_p),              True),
 ]):
     with col:
         if coloured:
@@ -314,6 +214,7 @@ for col, (label, val, coloured) in zip(cols, [
 
 st.markdown("<br>", unsafe_allow_html=True)
 
+# ── KPI row 2 ─────────────────────────────────────────────────────────────────
 cols2 = st.columns(5)
 for col, (label, val) in zip(cols2, [
     ("Income Received", fmt_dollar(income)),
@@ -327,7 +228,7 @@ for col, (label, val) in zip(cols2, [
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-# ── Charts row ────────────────────────────────────────────────────────────────
+# ── Asset allocation + returns bar ────────────────────────────────────────────
 col_l, col_r = st.columns(2)
 
 with col_l:
@@ -418,16 +319,16 @@ plot_layout(fig4, height=300)
 fig4.update_yaxes(tickprefix="$", tickformat=",.0f")
 st.plotly_chart(fig4, use_container_width=True)
 
-# ── Transactions ──────────────────────────────────────────────────────────────
+# ── Transaction table ─────────────────────────────────────────────────────────
 st.markdown('<div class="section-header">Transaction Detail</div>',
             unsafe_allow_html=True)
-start_d = date.fromisoformat(str(perf.get("start")))
-end_d   = date.fromisoformat(str(perf.get("end")))
+start_d  = date.fromisoformat(str(perf.get("start")))
+end_d    = date.fromisoformat(str(perf.get("end")))
 p_filter = None if selected_portfolio == "ALL" else selected_portfolio
-txs = data.transaction_summary(p_filter, start_d, end_d)
+txs      = data.transaction_summary(p_filter, start_d, end_d)
 
 cat_options = ["All"] + sorted({t["category"] for t in txs})
-cat_filter = st.selectbox("Filter by category", cat_options, key="cat_filter")
+cat_filter  = st.selectbox("Filter by category", cat_options)
 if cat_filter != "All":
     txs = [t for t in txs if t["category"] == cat_filter]
 
@@ -446,8 +347,10 @@ if txs:
                      "Debit (AUD)":  st.column_config.NumberColumn(format="$%.2f"),
                  })
     st.caption(f"{len(df)} transactions")
+else:
+    st.info("No transactions for this filter.")
 
-# ── Holdings ──────────────────────────────────────────────────────────────────
+# ── Holdings table ────────────────────────────────────────────────────────────
 st.markdown('<div class="section-header">Holdings at Closing Valuation</div>',
             unsafe_allow_html=True)
 holdings = perf.get("holdings_detail", {})
@@ -466,3 +369,5 @@ if holdings:
                      "Price":        st.column_config.NumberColumn(format="$%.4f"),
                      "Market Value": st.column_config.NumberColumn(format="$%.0f"),
                  })
+else:
+    st.info("No holdings data for this period.")
