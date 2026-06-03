@@ -378,10 +378,14 @@ class InvestmentData:
 
         # Transactions
         csv_map = {
-            "RFT":    [("RFT_Transactions*.csv", "AUD")],
-            "Super":  [("Super_AUD_Transactions*.csv", "AUD"),
-                       ("Super_USD_Transactions*.csv", "USD")],
-            "Yasmar": [("Yasmar_Transactions*.csv", "AUD")],
+            "RFT":    [("RFT*Transactions*.csv", "AUD"),
+                       ("RFT Transactions*.csv", "AUD")],
+            "Super":  [("Super*AUD*Transactions*.csv", "AUD"),
+                       ("Super AUD Transactions*.csv", "AUD"),
+                       ("Super*USD*Transactions*.csv", "USD"),
+                       ("Super USD Transactions*.csv", "USD")],
+            "Yasmar": [("Yasmar*Transactions*.csv", "AUD"),
+                       ("Yasmar Transactions*.csv", "AUD")],
         }
         for portfolio_key, patterns in csv_map.items():
             for pattern, currency in patterns:
