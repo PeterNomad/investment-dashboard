@@ -112,18 +112,6 @@ def load_data() -> InvestmentData:
 
 data = load_data()
 
-# Debug: show exactly what files were found
-data_dir = Path(__file__).parent / "data"
-st.write("**Debug — data dir:**", str(data_dir))
-st.write("**Exists:**", data_dir.exists())
-if data_dir.exists():
-    all_files = list(data_dir.iterdir())
-    st.write("**Files found:**", [f.name for f in all_files])
-st.write("**Valuations loaded:**", len(data.valuations))
-st.write("**Transactions loaded:**", len(data.transactions))
-if data.load_errors:
-    st.write("**Errors:**", data.load_errors)
-
 if not data.valuations:
     st.error("No valuation files found in the `data/` folder. "
              "Add your PDFs and CSVs there and redeploy.")

@@ -175,7 +175,20 @@ def parse_valuation_pdf(pdf_path: Path) -> dict:
     """
     result = {"source_file": pdf_path.name, "asset_classes": {}, "holdings": []}
     
-    with zipfile.ZipFile(pdf_path) as zf:
+    # GitHub's web uploader sometimes corrupts zip-based PDFs.
+    # Try opening directly first, then try finding the zip magic bytes.
+    import io as _io
+    raw = pdf_path.read_bytes()
+    # Find PK zip signature - may be offset if GitHub prepended data
+    pk_offset = raw.find(b'PK')
+    if pk_offset > 0:
+        raw = raw[pk_offset:]
+    try:
+        zf_obj = zipfile.ZipFile(_io.BytesIO(raw))
+    except zipfile.BadZipFile:
+        raise zipfile.BadZipFile(f'Cannot read {pdf_path.name} as zip/PDF')
+
+    with zf_obj as zf:
         txt_files = sorted([n for n in zf.namelist() if n.endswith(".txt")],
                            key=lambda x: int(x.replace(".txt", "")))
         pages = {}
