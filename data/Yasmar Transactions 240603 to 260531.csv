@@ -1,0 +1,177 @@
+ Date,Type,Description,Credit,Debit,Balance
+29/05/2026,GROSS_INTEREST,Interest,112.11,0,29871.87
+26/05/2026,DEPOSIT,Distribution from Zurich Investments Unhedged Global Growth Share Fund (ZUR0581AU),105.91,0,29759.76
+19/05/2026,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),115.61,0,29653.85
+11/05/2026,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From MFF CAPITAL, Ref: S00126874944",5500.5,0,29538.24
+11/05/2026,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),282.12,0,24037.74
+8/05/2026,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),73.39,0,23755.62
+4/05/2026,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),20.9,0,23682.23
+4/05/2026,WITHDRAWAL,Land tax 0000-PROCESSED-NAB202605045114310019,0,56682.61,23661.33
+30/04/2026,GROSS_INTEREST,Interest,253.83,0,80343.94
+20/04/2026,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),542.61,0,80090.11
+17/04/2026,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),48.06,0,79547.5
+17/04/2026,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),3215.78,0,79499.44
+15/04/2026,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),365.08,0,76283.66
+15/04/2026,WITHDRAWAL,MAR-26 QTR MAP Private Wealth - Invoice 268052,0,5410.09,75918.58
+13/04/2026,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),321.88,0,81328.67
+13/04/2026,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),51.88,0,81006.79
+9/04/2026,DEPOSIT,Distribution from Platinum Asia Fund (PLA0004AU),87.22,0,80954.91
+31/03/2026,GROSS_INTEREST,Interest,296.98,0,80867.69
+11/03/2026,WITHDRAWAL,Land Tax Payment 1,0,20000,80570.71
+11/03/2026,WITHDRAWAL,Donnington Costs,0,10000,100570.71
+27/02/2026,GROSS_INTEREST,Interest,300.56,0,110570.71
+13/02/2026,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),74.81,0,110270.15
+6/02/2026,DEPOSIT,Distribution from Zurich Investments Unhedged Global Growth Share Fund (ZUR0581AU),114.64,0,110195.34
+6/02/2026,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),20.92,0,110080.7
+30/01/2026,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),72.24,0,110059.78
+30/01/2026,GROSS_INTEREST,Interest,278.55,0,109987.54
+28/01/2026,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),290.69,0,109708.99
+21/01/2026,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),8225.76,0,109418.3
+21/01/2026,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),691.09,0,101192.54
+16/01/2026,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),51.31,0,100501.45
+16/01/2026,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),356.85,0,100450.14
+16/01/2026,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),4153.82,0,100093.29
+16/01/2026,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),3215.78,0,95939.47
+14/01/2026,WITHDRAWAL,DEC-25 QTR MAP Private Wealth - Invoice 257248,0,5546.33,92723.69
+12/01/2026,DEPOSIT,Distribution from Platinum Asia Fund (PLA0004AU),87.42,0,98270.02
+12/01/2026,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),223.42,0,98182.6
+12/01/2026,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),863.18,0,97959.18
+31/12/2025,GROSS_INTEREST,Interest,293.19,0,97096
+12/12/2025,CALL_TRANSACTION,"INTERBANK CREDIT From JBWERE LIMITED P, Ref: MAP FEEREFUND  INT",5.12,0,96802.81
+28/11/2025,GROSS_INTEREST,Interest,312.42,0,96797.69
+27/11/2025,WITHDRAWAL,Elena tax 0000-PROCESSED-NAB202511275134250003,0,8331,96485.27
+24/11/2025,WITHDRAWAL,WES Yasmar costs,0,20000,104816.27
+21/11/2025,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),72.93,0,124816.27
+14/11/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),70.5,0,124743.34
+31/10/2025,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From MFF CAPITAL, Ref: S00126874944",4950.45,0,124672.84
+31/10/2025,GROSS_INTEREST,Interest,339.37,0,119722.39
+29/10/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),21.36,0,119383.02
+24/10/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),48.93,0,119361.66
+23/10/2025,DEPOSIT,Distribution from Zurich Investments Unhedged Global Growth Share Fund (ZUR0581AU),108.55,0,119312.73
+21/10/2025,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),284,0,119204.18
+17/10/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),872.62,0,118920.18
+16/10/2025,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),3215.78,0,118047.56
+15/10/2025,WITHDRAWAL,SEP-25 QTR MAP Private Wealth - Invoice 246215,0,5378.87,114831.78
+10/10/2025,DEPOSIT,Distribution from Platinum Asia Fund (PLA0004AU),81.61,0,120210.65
+10/10/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),318.64,0,120129.04
+10/10/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),339.92,0,119810.4
+30/09/2025,GROSS_INTEREST,Interest,440.62,0,119470.48
+23/09/2025,WITHDRAWAL,"Bought 1,975 VANECK MSCI INTERNATIONAL QUALITY (AUD HEDGED) ETF, EXCHANGE TRADED  $50.65 [ASX] 19-SEP-2025 Ref: 34802444",0,100033.75,119029.86
+22/09/2025,WITHDRAWAL,"Bought 1,690 VANECK MSCI INTERNATIONAL QUALITY ETF, EXCHANGE TRADED FUND UNITS $59.08 [ASX] 18-SEP-2025 Ref: 34782936",0,99842.48,219063.61
+19/09/2025,DEPOSIT,"Sold 150,138.878500 Resolution Capital Global Property Securities Fund - Un 1.332100 [MGDFUND] 15-SEP-2025 Ref: 34786012",200000,0,318906.09
+17/09/2025,DEPOSIT,"Sold 31,524.431066 Macquarie Walter Scott Global Equity Fund (Unhedged) 3.163200 [MGDFUND] 12-SEP-2025 Ref: 34746012",99718.08,0,118906.09
+16/09/2025,WITHDRAWAL,"Bought 1,309 GLOBAL X GOLD BULLION (CURRENCY HEDGED) ETF, EXCHANGE TRADED FUND UN $57.27 [ASX] 12-SEP-2025 Ref: 34723332",0,74966.43,19188.01
+12/09/2025,WITHDRAWAL,"Bought 30,000 QVG Opportunities Fund [MGDFUND] 12-SEP-2025 Ref: 34717750",0,30000,94154.44
+12/09/2025,WITHDRAWAL,"Bought 30,000 Fidelity Future Leaders Fund [MGDFUND] 12-SEP-2025 Ref: 34717462",0,30000,124154.44
+29/08/2025,GROSS_INTEREST,Interest,518.56,0,154154.44
+22/08/2025,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),72.43,0,153635.88
+20/08/2025,WITHDRAWAL,WES YAS costs,0,50000,153563.45
+7/08/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),172.89,0,203563.45
+31/07/2025,GROSS_INTEREST,Interest,490.17,0,203390.56
+28/07/2025,WITHDRAWAL,FY24 Tax Elena 0000-PROCESSED-NAB202507285094210067,0,19200,202900.39
+24/07/2025,DEPOSIT,Distribution from Zurich Investments Unhedged Global Growth Share Fund (ZUR0581AU),109.21,0,222100.39
+24/07/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),20.58,0,221991.18
+23/07/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),340.78,0,221970.6
+23/07/2025,DEPOSIT,Distribution from Zurich Investments Unhedged Global Growth Share Fund (ZUR0581AU),21185.96,0,221629.82
+22/07/2025,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),10850.56,0,200443.86
+22/07/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),26464.35,0,189593.3
+21/07/2025,DEPOSIT,Distribution from QVG Opportunities Fund (QVG9204AU),1076.3,0,163128.95
+21/07/2025,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),2894.2,0,162052.65
+21/07/2025,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),287.04,0,159158.45
+18/07/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),37.87,0,158871.41
+17/07/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),11620.22,0,158833.54
+17/07/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),2357.21,0,147213.32
+16/07/2025,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From NDQ DST, Ref: 001338553030",1120.15,0,144856.11
+16/07/2025,WITHDRAWAL,JUN-25 QTR MAP Private Wealth - Invoice 235246,0,5261.98,143735.96
+14/07/2025,DEPOSIT,Distribution from Platinum Asia Fund (PLA0004AU),902.34,0,148997.94
+14/07/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),2496.19,0,148095.6
+11/07/2025,DEPOSIT,Distribution from Macquarie Walter Scott Global Equity Fund (Unhedged) (MAQ0410AU),158.33,0,145599.41
+11/07/2025,DEPOSIT,Distribution from Macquarie Walter Scott Global Equity Fund (Unhedged) (MAQ0410AU),20654.49,0,145441.08
+8/07/2025,DEPOSIT,Distribution from Platinum Asia Fund (PLA0004AU),73.75,0,124786.59
+30/06/2025,GROSS_INTEREST,Interest,380.12,0,124712.84
+3/06/2025,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),72.52,0,124332.72
+30/05/2025,GROSS_INTEREST,Interest,488.95,0,124260.2
+20/05/2025,WITHDRAWAL,Land Tax 0000-PROCESSED-NAB202505205084150008,0,52947.75,123771.25
+14/05/2025,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From MFF CAPITAL, Ref: S00126874944",4400.4,0,176719
+14/05/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),178.69,0,172318.6
+6/05/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),21.39,0,172139.91
+30/04/2025,GROSS_INTEREST,Interest,538.87,0,172118.52
+29/04/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),304.85,0,171579.65
+29/04/2025,DEPOSIT,Distribution from Macquarie Walter Scott Global Equity Fund (Unhedged) (MAQ0410AU),164.34,0,171274.8
+28/04/2025,DEPOSIT,Distribution from Zurich Investments Unhedged Global Growth Share Fund (ZUR0581AU),109.13,0,171110.46
+23/04/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),37.84,0,171001.33
+23/04/2025,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),2894.2,0,170963.49
+17/04/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),1669.72,0,168069.29
+16/04/2025,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),267.76,0,166399.57
+16/04/2025,WITHDRAWAL,MAR-25 QTR MAP Private Wealth - Invoice 224699,0,5095.72,166131.81
+15/04/2025,DEPOSIT,Distribution from Platinum Asia Fund (PLA0004AU),75.77,0,171227.53
+11/04/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),28.69,0,171151.76
+10/04/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),192.82,0,171123.07
+31/03/2025,GROSS_INTEREST,Interest,519.03,0,170930.25
+18/03/2025,DEPOSIT,"Sold 23,145.086626 Bennelong ex 20 Australian Equities Fund 2.328600 [MGDFUND] 11-MAR-2025 Ref: 33058200",53895.65,0,170411.22
+14/03/2025,DEPOSIT,Sold 183.760466 MAGELLAN GLOBAL FUND 3.078700 [MGDFUND] 11-MAR-2025 Ref: 33023736,565.74,0,116515.57
+11/03/2025,WITHDRAWAL,"Bought 56,000 Greencape Wholesale High Conviction Fund [MGDFUND] 11-MAR-2025 Ref: 32979554",0,56000,115949.83
+28/02/2025,GROSS_INTEREST,Interest,528.21,0,171949.83
+19/02/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),176.05,0,171421.62
+31/01/2025,GROSS_INTEREST,Interest,593.77,0,171245.57
+28/01/2025,DEPOSIT,Distribution from Zurich Investments Unhedged Global Growth Share Fund (ZUR0581AU),107.12,0,170651.8
+24/01/2025,DEPOSIT,Distribution from Bennelong ex 20 Australian Equities Fund (BFL0004AU),30.64,0,170544.68
+23/01/2025,DEPOSIT,Distribution from MAGELLAN GLOBAL FUND (MGE0001AU),43.18,0,170514.04
+23/01/2025,DEPOSIT,Distribution from MAGELLAN GLOBAL FUND (MGE0001AU),0.88,0,170470.86
+22/01/2025,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),7667.73,0,170469.98
+22/01/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),38.7,0,162802.25
+22/01/2025,DEPOSIT,Distribution from Platinum Asia Fund (PLA0004AU),76.86,0,162763.55
+22/01/2025,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),262.97,0,162686.69
+21/01/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),938.37,0,162423.72
+17/01/2025,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From NDQ DST, Ref: 001328930286",64.88,0,161485.35
+17/01/2025,DEPOSIT,Distribution from Macquarie Walter Scott Global Equity Fund (Unhedged) (MAQ0410AU),159.36,0,161420.47
+16/01/2025,DEPOSIT,Distribution from Bennelong ex 20 Australian Equities Fund (BFL0004AU),119.65,0,161261.11
+16/01/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),311.37,0,161141.46
+15/01/2025,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),2894.2,0,160830.09
+15/01/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),3069.7,0,157935.89
+15/01/2025,WITHDRAWAL,DEC-24 QTR MAP Private Wealth - Invoice 214415,0,5047.62,154866.19
+10/01/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),280.04,0,159913.81
+9/01/2025,WITHDRAWAL,To West Yasmar,0,25000,159633.77
+31/12/2024,GROSS_INTEREST,Interest,659.49,0,184633.77
+29/11/2024,GROSS_INTEREST,Interest,591.52,0,183974.28
+25/11/2024,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),173.18,0,183382.76
+25/11/2024,DEPOSIT,Distribution from Zurich Investments Unhedged Global Growth Share Fund (ZUR0581AU),96.94,0,183209.58
+20/11/2024,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),260.88,0,183112.64
+20/11/2024,DEPOSIT,Distribution from MAGELLAN GLOBAL FUND (MGE0001AU),0.83,0,182851.76
+12/11/2024,DEPOSIT,Distribution from Macquarie Walter Scott Global Equity Fund (Unhedged) (MAQ0410AU),152.24,0,182850.93
+12/11/2024,DEPOSIT,Distribution from Bennelong ex 20 Australian Equities Fund (BFL0004AU),29.49,0,182698.69
+11/11/2024,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),310.94,0,182669.2
+8/11/2024,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),2027.84,0,182358.26
+1/11/2024,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From MFF CAPITAL, Ref: S00126874944",3850.35,0,180330.42
+31/10/2024,GROSS_INTEREST,Interest,644.53,0,176480.07
+30/10/2024,DEPOSIT,Distribution from Platinum Asia Fund (PLA0004AU),78.35,0,175835.54
+28/10/2024,WITHDRAWAL,WEST Yas bills,0,10000,175757.19
+23/10/2024,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),35.57,0,185757.19
+18/10/2024,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),2894.2,0,185721.62
+16/10/2024,WITHDRAWAL,SEP-24 QTR MAP Private Wealth - Invoice 204133,0,4870.99,182827.42
+30/09/2024,GROSS_INTEREST,Interest,649.56,0,187698.41
+30/08/2024,GROSS_INTEREST,Interest,624.13,0,187048.85
+28/08/2024,DEPOSIT,Distribution from Macquarie Walter Scott Global Equity Fund (Unhedged) (MAQ0410AU),162.44,0,186424.72
+21/08/2024,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),305.76,0,186262.28
+21/08/2024,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),241.88,0,185956.52
+19/08/2024,DEPOSIT,Distribution from Zurich Investments Unhedged Global Growth Share Fund (ZUR0581AU),101.2,0,185714.64
+19/08/2024,DEPOSIT,Distribution from Platinum Asia Fund (PLA0004AU),69.47,0,185613.44
+16/08/2024,DEPOSIT,Distribution from MAGELLAN GLOBAL FUND (MGE0001AU),1.86,0,185543.97
+9/08/2024,DEPOSIT,Distribution from RESOLUTION CAPTL GLBL PRPTY SECRTS FND (UNHDGD) SERIES II (IOF0184AU),158.67,0,185542.11
+8/08/2024,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),33.66,0,185383.44
+8/08/2024,DEPOSIT,Distribution from Bennelong ex 20 Australian Equities Fund (BFL0004AU),30.11,0,185349.78
+31/07/2024,GROSS_INTEREST,Interest,547.66,0,185319.67
+26/07/2024,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),319.17,0,184772.01
+26/07/2024,DEPOSIT,Distribution from Platinum Asia Fund (PLA0004AU),336.87,0,184452.84
+26/07/2024,DEPOSIT,Distribution from MAGELLAN GLOBAL FUND (MGE0001AU),9.22,0,184115.97
+24/07/2024,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),7688.4,0,184106.75
+24/07/2024,DEPOSIT,Distribution from RESOLUTION CAPTL GLBL PRPTY SECRTS FND (UNHDGD) SERIES II (IOF0184AU),1080.88,0,176418.35
+24/07/2024,DEPOSIT,Distribution from Zurich Investments Unhedged Global Growth Share Fund (ZUR0581AU),13436.83,0,175337.47
+24/07/2024,DEPOSIT,Distribution from QVG Opportunities Fund (QVG9204AU),2679.47,0,161900.64
+24/07/2024,WITHDRAWAL,JUN-24 QTR MAP Private Wealth - Invoice 194007,0,4727.86,159221.17
+22/07/2024,DEPOSIT,Distribution from Bennelong ex 20 Australian Equities Fund (BFL0004AU),3748.6,0,163949.03
+22/07/2024,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),13840.24,0,160200.43
+18/07/2024,DEPOSIT,Distribution from Australian Unity Healthcare Property Trust (Wholesale) (AUS0112AU),3215.78,0,146360.19
+16/07/2024,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From NDQ DST, Ref: 001319744971",2094.99,0,143144.41
+11/07/2024,DEPOSIT,Distribution from Macquarie Walter Scott Global Equity Fund (Unhedged) (MAQ0410AU),10900.32,0,141049.42
+28/06/2024,GROSS_INTEREST,Interest,406.95,0,130149.1

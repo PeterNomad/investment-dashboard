@@ -1,0 +1,295 @@
+ Date,Type,Description,Credit,Debit,Balance
+29/05/2026,GROSS_INTEREST,Interest,558.39,0,166967.18
+26/05/2026,WITHDRAWAL,Elena FY25 Tax 0000-PROCESSED-NAB202605265091200013,0,8331,166408.79
+13/05/2026,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),250.97,0,174739.79
+12/05/2026,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),176.11,0,174488.82
+8/05/2026,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),36.51,0,174312.71
+6/05/2026,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),298.91,0,174276.2
+4/05/2026,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),31.8,0,173977.29
+4/05/2026,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),33.92,0,173945.49
+4/05/2026,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),28.67,0,173911.57
+30/04/2026,GROSS_INTEREST,Interest,436.75,0,173882.9
+24/04/2026,DEPOSIT,"Sold 69,797.702900 Ares Diversified Credit Fund 0.947500 [MGDFUND] 09-APR-2026 Ref: 36905584",66133.32,0,173446.15
+20/04/2026,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),269.97,0,107312.83
+20/04/2026,WITHDRAWAL,Fix error,0,25000,107042.86
+17/04/2026,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),44.1,0,132042.86
+15/04/2026,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),88.89,0,131998.76
+15/04/2026,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),697.32,0,131909.87
+15/04/2026,WITHDRAWAL,MAR-26 QTR MAP Private Wealth - Invoice 268051,0,4814.18,131212.55
+14/04/2026,DEPOSIT,Distribution from Macquarie True Index Australian Fixed Interest Fund (MAQ0211AU),513.22,0,136026.73
+13/04/2026,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),609.5,0,135513.51
+13/04/2026,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),441.63,0,134904.01
+13/04/2026,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),47.6,0,134462.38
+8/04/2026,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),321.4,0,134414.78
+8/04/2026,DEPOSIT,Distribution from UBS JBWere International Credit Fund (UBS0487AU),719.71,0,134093.38
+31/03/2026,GROSS_INTEREST,Interest,429.42,0,133373.67
+20/03/2026,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From LSF, Ref: 001352775571",239.15,0,132944.25
+12/03/2026,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),707.44,0,132705.1
+9/03/2026,DEPOSIT,Distribution from Hamilton Lane Global Private Assets Fund (AUD) - Hedged (PIM1015AU),452.25,0,131997.66
+5/03/2026,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),268.95,0,131545.41
+27/02/2026,GROSS_INTEREST,Interest,402.75,0,131276.46
+26/02/2026,DEPOSIT,Distribution from Partners Group Global Value Fund (AUD) - Wholesale Units (ETL0276AU),293.86,0,130873.71
+20/02/2026,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),174.26,0,130579.85
+19/02/2026,WITHDRAWAL,EFT TO RFT Corp Pty Ltd ATF The Ramsay Family Trust,0,25000,130405.59
+16/02/2026,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),723.38,0,155405.59
+13/02/2026,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),37.22,0,154682.21
+6/02/2026,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),28.71,0,154644.99
+5/02/2026,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),33,0,154616.28
+5/02/2026,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),34,0,154583.28
+5/02/2026,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),411,0,154549.28
+30/01/2026,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),1141.02,0,154138.28
+30/01/2026,GROSS_INTEREST,Interest,419.44,0,152997.26
+21/01/2026,DEPOSIT,Distribution from MAGELLAN GLOBAL FUND (MGE0001AU),0.01,0,152577.82
+21/01/2026,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),343.84,0,152577.81
+16/01/2026,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),47.08,0,152233.97
+16/01/2026,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),86.88,0,152186.89
+16/01/2026,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),1011.34,0,152100.01
+14/01/2026,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),722.66,0,151088.67
+14/01/2026,WITHDRAWAL,DEC-25 QTR MAP Private Wealth - Invoice 257247,0,4904.52,150366.01
+13/01/2026,DEPOSIT,Distribution from Macquarie True Index Australian Fixed Interest Fund (MAQ0211AU),972.53,0,155270.53
+12/01/2026,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),615.46,0,154298
+12/01/2026,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),306.54,0,153682.54
+12/01/2026,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),792.02,0,153376
+7/01/2026,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),291.51,0,152583.98
+7/01/2026,DEPOSIT,Distribution from UBS JBWere International Credit Fund (UBS0487AU),719.71,0,152292.47
+31/12/2025,GROSS_INTEREST,Interest,440.17,0,151572.76
+29/12/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),64.01,0,151132.59
+24/12/2025,WITHDRAWAL,WES RFT,0,20000,151068.58
+17/12/2025,DEPOSIT,Distribution from Partners Group Global Value Fund (AUD) - Wholesale Units (ETL0276AU),294.45,0,171068.58
+12/12/2025,CALL_TRANSACTION,"INTERBANK CREDIT From JBWERE LIMITED P, Ref: MAP FEEREFUND  INT",17.6,0,170774.13
+11/12/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),670.2,0,170756.53
+5/12/2025,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From LSF, Ref: 001347059758",232.51,0,170086.33
+5/12/2025,DEPOSIT,"Sold 55,478.000000 Ironbark North Rock Fund 1.777800 [MGDFUND] 31-OCT-2025 Ref: 35635661",98628.79,0,169853.82
+4/12/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),269.02,0,71225.03
+1/12/2025,DEPOSIT,Distribution from Hamilton Lane Global Private Assets Fund (AUD) - Hedged (PIM1015AU),445.17,0,70956.01
+28/11/2025,GROSS_INTEREST,Interest,221.25,0,70510.84
+14/11/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),68.87,0,70289.59
+13/11/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),743.34,0,70220.72
+13/11/2025,WITHDRAWAL,WEST RFT,0,35000,69477.38
+6/11/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),298.91,0,104477.38
+31/10/2025,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),36.4,0,104178.47
+31/10/2025,GROSS_INTEREST,Interest,179.61,0,104142.07
+30/10/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),32.94,0,103962.46
+29/10/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),29.31,0,103929.52
+24/10/2025,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),171.32,0,103900.21
+24/10/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),44.89,0,103728.89
+23/10/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),15.26,0,103684
+17/10/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),852.5,0,103668.74
+16/10/2025,DEPOSIT,"Sold 52,978.127600 Resolution Capital Global Property Securities Fund - Unh 1.321300 [MGDFUND] 09-OCT-2025 Ref: 35054724",70000,0,102816.24
+15/10/2025,DEPOSIT,"Sold 4,250.616339 Kapstream Wholesale Absolute Return Income Fund 1.176300 [MGDFUND] 09-OCT-2025 Ref: 35031788",5000,0,32816.24
+15/10/2025,DEPOSIT,"Sold 4,910.144000 UBS JBWere Australian Credit Fund 1.018300 [MGDFUND] 09-OCT-2025 Ref: 35031764",5000,0,27816.24
+15/10/2025,WITHDRAWAL,SEP-25 QTR MAP Private Wealth - Invoice 246214,0,4981.77,22816.24
+14/10/2025,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),662.88,0,27798.01
+14/10/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),745.19,0,27135.13
+14/10/2025,DEPOSIT,"Sold 10,357.327500 Macquarie True Index Australian Fixed Interest Fund 0.965500 [MGDFUND] 09-OCT-2025 Ref: 35021280",10000,0,26389.94
+13/10/2025,DEPOSIT,Distribution from Macquarie True Index Australian Fixed Interest Fund (MAQ0211AU),1055.11,0,16389.94
+10/10/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),437.2,0,15334.83
+10/10/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),82.76,0,14897.63
+10/10/2025,DEPOSIT,"Sold 180 GLOBAL X PHYSICAL GOLD STRUCTURED, GLOBAL X PHYSICAL GOLD STRUCTURED $56.03 [ASX] 08-OCT-2025 Ref: 34981694",10085.4,0,14814.87
+8/10/2025,WITHDRAWAL,Nomad costs,0,30000,4729.47
+7/10/2025,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From LSF, Ref: 001344967194",431.8,0,34729.47
+6/10/2025,DEPOSIT,Distribution from UBS JBWere International Credit Fund (UBS0487AU),719.71,0,34297.67
+6/10/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),318.55,0,33577.96
+30/09/2025,GROSS_INTEREST,Interest,406.79,0,33259.41
+26/09/2025,WITHDRAWAL,WES RFT,0,50000,32852.62
+16/09/2025,WITHDRAWAL,"Bought 475 VANECK MSCI INTERNATIONAL QUALITY ETF, EXCHANGE TRADED FUND UNITS $58.65 [ASX] 12-SEP-2025 Ref: 34723350",0,27858.75,82852.62
+16/09/2025,WITHDRAWAL,"Bought 525 BETASHARES NASDAQ 100 ETF, EXCHANGE TRADED FUND UNITS $53.07 [ASX] 12-SEP-2025 Ref: 34723340",0,27861.75,110711.37
+12/09/2025,WITHDRAWAL,"Bought 10,000 UBS JBWere Australian Credit Fund [MGDFUND] 12-SEP-2025 Ref: 34717850",0,10000,138573.12
+12/09/2025,WITHDRAWAL,"Bought 10,000 UBS JBWere International Credit Fund [MGDFUND] 12-SEP-2025 Ref: 34717838",0,10000,148573.12
+12/09/2025,WITHDRAWAL,"Bought 10,000 QVG Opportunities Fund [MGDFUND] 12-SEP-2025 Ref: 34717754",0,10000,158573.12
+12/09/2025,WITHDRAWAL,"Bought 10,000 Ares Diversified Credit Fund [MGDFUND] 12-SEP-2025 Ref: 34717664",0,10000,168573.12
+12/09/2025,WITHDRAWAL,"Bought 20,000 Macquarie True Index Australian Fixed Interest Fund [MGDFUND] 12-SEP-2025 Ref: 34717558",0,20000,178573.12
+12/09/2025,WITHDRAWAL,"Bought 10,000 Kapstream Wholesale Absolute Return Income Fund [MGDFUND] 12-SEP-2025 Ref: 34717530",0,10000,198573.12
+12/09/2025,WITHDRAWAL,"Bought 20,000 Greencape Wholesale High Conviction Fund [MGDFUND] 12-SEP-2025 Ref: 34717412",0,20000,208573.12
+11/09/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),687.86,0,228573.12
+5/09/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),272.45,0,227885.26
+2/09/2025,DEPOSIT,Distribution from Partners Group Global Value Fund (AUD) - Wholesale Units (ETL0276AU),296.33,0,227612.81
+1/09/2025,DEPOSIT,"Sold 52,447.000000 Ironbark North Rock Fund 1.716300 [MGDFUND] 31-JUL-2025 Ref: 34607884",90014.78,0,227316.48
+29/08/2025,DEPOSIT,Distribution from Hamilton Lane Global Private Assets Fund (AUD) - Hedged (PIM1015AU),428.7,0,137301.7
+29/08/2025,GROSS_INTEREST,Interest,359.67,0,136873
+25/08/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),14.5,0,136513.33
+21/08/2025,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),170.8,0,136498.83
+18/08/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),699.28,0,136328.03
+11/08/2025,DEPOSIT,Distribution from Partners Group Global Value Fund (AUD) - Wholesale Units (ETL0276AU),9943.06,0,135628.75
+7/08/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),71.61,0,125685.69
+7/08/2025,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),4651.51,0,125614.08
+7/08/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),279.44,0,120962.57
+31/07/2025,GROSS_INTEREST,Interest,431.25,0,120683.13
+30/07/2025,WITHDRAWAL,Elena tax 0000-PROCESSED-NAB202507305084210011,0,36453.3,120251.88
+24/07/2025,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),31.42,0,156705.18
+24/07/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),20.96,0,156673.76
+23/07/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),82.97,0,156652.8
+22/07/2025,DEPOSIT,Distribution from MAGELLAN GLOBAL FUND (MGE0001AU),0.02,0,156569.83
+22/07/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),6443.36,0,156569.81
+21/07/2025,DEPOSIT,Distribution from QVG Opportunities Fund (QVG9204AU),987.52,0,150126.45
+18/07/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),48.76,0,149138.93
+17/07/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),14961.47,0,149090.17
+17/07/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),976.36,0,134128.7
+16/07/2025,WITHDRAWAL,JUN-25 QTR MAP Private Wealth - Invoice 235245,0,4978.48,133152.34
+14/07/2025,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),1325.61,0,138130.82
+14/07/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),697.8,0,136805.21
+14/07/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),2542.35,0,136107.41
+10/07/2025,DEPOSIT,Distribution from Macquarie True Index Australian Fixed Interest Fund (MAQ0211AU),2102.86,0,133565.06
+7/07/2025,DEPOSIT,Distribution from UBS JBWere International Credit Fund (UBS0487AU),611.21,0,131462.2
+7/07/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),274.41,0,130850.99
+30/06/2025,DEPOSIT,Distribution from Partners Group Global Value Fund (AUD) - Wholesale Units (ETL0276AU),291.3,0,130576.58
+30/06/2025,GROSS_INTEREST,Interest,96.38,0,130285.28
+27/06/2025,DEPOSIT,"Sold 30,770 L1 LONG SHORT FUND LIMITED, ORDINARY $2.86 [ASX] 25-JUN-2025 Ref: 33970710",88002.2,0,130188.9
+23/06/2025,WITHDRAWAL,Ramsay Super Corp Pty Ltd ATF Ramsay Family Superannuation Fund A/C,0,27600,42186.7
+23/06/2025,WITHDRAWAL,Ramsay Super Corp Pty Ltd ATF Ramsay Family Superannuation Fund A/C,0,7200,69786.7
+23/06/2025,DEPOSIT,"Sold 29,530.977836 Payden Global Income Opportunities Fund 1.078900 [MGDFUND] 16-JUN-2025 Ref: 33937530",31860.97,0,76986.7
+20/06/2025,DEPOSIT,"Sold 28,793.529961 Brandywine Gbl Opportunistic Fixed Inc Fnd - Class A 1.080800 [MGDFUND] 16-JUN-2025 Ref: 33929840",31120.05,0,45125.73
+13/06/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),697.46,0,14005.68
+6/06/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),258.48,0,13308.22
+30/05/2025,GROSS_INTEREST,Interest,56.83,0,13049.74
+19/05/2025,DEPOSIT,Distribution from HAMILTON LANE GLOBAL PRIVATE ASSETS FUND (AUD) (Hedged) (PIM1015AU),413.58,0,12992.91
+15/05/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),688.49,0,12579.33
+14/05/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),74.01,0,11890.84
+12/05/2025,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),161.65,0,11816.83
+7/05/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),279.51,0,11655.18
+6/05/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),21.78,0,11375.67
+6/05/2025,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),31.72,0,11353.89
+6/05/2025,WITHDRAWAL,To Nomad WEST,0,30000,11322.17
+30/04/2025,GROSS_INTEREST,Interest,132.32,0,41322.17
+29/04/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),74.22,0,41189.85
+28/04/2025,DEPOSIT,Distribution from Brandywine Gbl Opportunistic Fixed Inc Fnd - Class A (SSB0014AU),18.38,0,41115.63
+23/04/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),48.72,0,41097.25
+17/04/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),691.6,0,41048.53
+16/04/2025,WITHDRAWAL,MAR-25 QTR MAP Private Wealth - Invoice 224698,0,5362.56,40356.93
+15/04/2025,DEPOSIT,Distribution from Payden Global Income Opportunities Fund (GSF0008AU),23.56,0,45719.49
+14/04/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),693.11,0,45695.93
+11/04/2025,DEPOSIT,Distribution from Macquarie True Index Australian Fixed Interest Fund (MAQ0211AU),891.01,0,45002.82
+11/04/2025,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),863.86,0,44111.81
+11/04/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),29.22,0,43247.95
+10/04/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),248.26,0,43218.73
+8/04/2025,DEPOSIT,Distribution from Payden Global Income Opportunities Fund (GSF0008AU),2.78,0,42970.47
+8/04/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),244.44,0,42967.69
+8/04/2025,DEPOSIT,Distribution from UBS JBWere International Credit Fund (UBS0487AU),125.74,0,42723.25
+7/04/2025,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From LSF, Ref: 001335610953",2338.31,0,42597.51
+31/03/2025,GROSS_INTEREST,Interest,116.6,0,40259.2
+18/03/2025,DEPOSIT,Distribution from Partners Group Global Value Fund (AUD) - Wholesale Units (ETL0276AU),290.91,0,40142.6
+17/03/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),702.08,0,39851.69
+17/03/2025,DEPOSIT,"Sold 16,791.201400 Kapstream Wholesale Absolute Return Income Fund 1.191100 [MGDFUND] 11-MAR-2025 Ref: 33042088",20000,0,39149.61
+14/03/2025,DEPOSIT,Sold 32.427387 PIMCO Global Credit Fund - Wholesale Class 0.896900 [MGDFUND] 11-MAR-2025 Ref: 33023726,29.09,0,19149.61
+11/03/2025,WITHDRAWAL,"Bought 20,000 UBS JBWere Australian Credit Fund [MGDFUND] 11-MAR-2025 Ref: 32979748",0,20000,19120.52
+7/03/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),199.98,0,39120.52
+28/02/2025,GROSS_INTEREST,Interest,563.78,0,38920.54
+25/02/2025,DEPOSIT,Distribution from HAMILTON LANE GLOBAL PRIVATE ASSETS FUND (AUD) (Hedged) (PIM1015AU),414.52,0,38356.76
+20/02/2025,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),323.06,0,37942.24
+19/02/2025,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),1427.23,0,37619.18
+19/02/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),88.55,0,36191.95
+14/02/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),704.42,0,36103.4
+11/02/2025,DEPOSIT,Distribution from UBS JBWere Australian Credit Fund (UBS7880AU),199.93,0,35398.98
+7/02/2025,WITHDRAWAL,To Nomad,0,100000,35199.05
+5/02/2025,LOCAL_TT_FEE,T/T FEE,0,15,135199.05
+5/02/2025,WITHDRAWAL,LOCAL T/T TO NOMAD BREWING CO - Ramsay FT Settlement,0,664711.36,135214.05
+31/01/2025,GROSS_INTEREST,Interest,2371.75,0,799925.41
+30/01/2025,DEPOSIT,Distribution from Brandywine Gbl Opportunistic Fixed Inc Fnd - Class A (SSB0014AU),15.99,0,797553.66
+29/01/2025,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),43.07,0,797537.67
+29/01/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),27.61,0,797494.6
+28/01/2025,DEPOSIT,"Sold 20,879.732700 ATLAS Infrastructure Australian Feeder Fund -  AUD Unhed 1.436800 [MGDFUND] 15-JAN-2025 Ref: 32615608",30000,0,797466.99
+23/01/2025,DEPOSIT,Distribution from MAGELLAN GLOBAL FUND (MGE0001AU),0.02,0,767466.99
+22/01/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),57.3,0,767466.97
+22/01/2025,DEPOSIT,Distribution from Payden Global Income Opportunities Fund (GSF0008AU),24.24,0,767409.67
+22/01/2025,DEPOSIT,Sold 518.530000 Fidelity Future Leaders Fund 28.927900 [MGDFUND] 15-JAN-2025 Ref: 32588056,15000,0,767385.43
+21/01/2025,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),471.96,0,752385.43
+21/01/2025,DEPOSIT,"Sold 8,677.040000 Greencape Wholesale High Conviction Fund 1.728700 [MGDFUND] 15-JAN-2025 Ref: 32580642",15000,0,751913.47
+21/01/2025,DEPOSIT,"Sold 7,460.840000 QVG Opportunities Fund 2.010500 [MGDFUND] 15-JAN-2025 Ref: 32580630",15000,0,736913.47
+21/01/2025,DEPOSIT,"Sold 23,133.870000 Resolution Capital Global Property Securities Fund - Unh 1.296800 [MGDFUND] 15-JAN-2025 Ref: 32580626",30000,0,721913.47
+17/01/2025,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),780.81,0,691913.47
+16/01/2025,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),836.74,0,691132.66
+16/01/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),100.07,0,690295.92
+16/01/2025,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),110.93,0,690195.85
+16/01/2025,DEPOSIT,"Sold 1,005 GLOBAL X PHYSICAL GOLD, GLOBAL X PHYSICAL GOLD $39.74 [ASX] 14-JAN-2025 Ref: 32553344",39933.68,0,690084.92
+16/01/2025,DEPOSIT,"Sold 11,985 L1 LONG SHORT FUND LIMITED, ORDINARY $2.90 [ASX] 14-JAN-2025 Ref: 32553268",34756.5,0,650151.24
+15/01/2025,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),986.53,0,615394.74
+15/01/2025,DEPOSIT,Distribution from MACQUARIE TRUE INDEX AUSTRALIAN FIXED INTEREST FUND (MAQ0211AU),503.49,0,614408.21
+15/01/2025,WITHDRAWAL,DEC-24 QTR MAP Private Wealth - Invoice 214414,0,6338.63,613904.72
+10/01/2025,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),414.66,0,620243.35
+9/01/2025,DEPOSIT,Distribution from Payden Global Income Opportunities Fund (GSF0008AU),818.76,0,619828.69
+8/01/2025,DEPOSIT,Distribution from PIMCO Global Credit Fund - Wholesale Class (ETL0019AU),0.29,0,619009.93
+31/12/2024,GROSS_INTEREST,Interest,996.61,0,619009.64
+23/12/2024,DEPOSIT,"Sold 34,963.727970 Bennelong ex 20 Australian Equities Fund 2.585800 [MGDFUND] 16-DEC-2024 Ref: 32483360",90409.21,0,618013.03
+20/12/2024,DEPOSIT,"Sold 59,224.188344 CI Australian Equities Fund 1.591200 [MGDFUND] 17-DEC-2024 Ref: 32474288",94237.53,0,527603.82
+20/12/2024,DEPOSIT,"Sold 12,042.970000 QVG Opportunities Fund 2.075900 [MGDFUND] 16-DEC-2024 Ref: 32474280",25000,0,433366.29
+19/12/2024,DEPOSIT,"Sold 115,998.206457 Janus Henderson Australian Fixed Interest Fund 0.970100 [MGDFUND] 16-DEC-2024 Ref: 32465262",112529.86,0,408366.29
+19/12/2024,DEPOSIT,"Sold 78,973.407000 Magellan Infrastructure Fund (Unhedged) 2.002900 [MGDFUND] 16-DEC-2024 Ref: 32465184",158175.84,0,295836.43
+19/12/2024,DEPOSIT,"Sold 125,767.973789 PIMCO Global Credit Fund - Wholesale Class 0.898400 [MGDFUND] 16-DEC-2024 Ref: 32465178",112989.95,0,137660.59
+18/12/2024,WITHDRAWAL,"Bought 50,000 UBS JBWere Australian Credit Fund [MGDFUND] 18-DEC-2024 Ref: 32455714",0,50000,24670.64
+18/12/2024,WITHDRAWAL,"Bought 50,000 UBS JBWere International Credit Fund [MGDFUND] 18-DEC-2024 Ref: 32455702",0,50000,74670.64
+18/12/2024,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),776.38,0,124670.64
+18/12/2024,DEPOSIT,"Sold 13,180 GLOBAL X US TREASURY BOND ETF (CURRENCY HEDGED)., EXCHANGE TRADED FUND $9.20 [ASX] 16-DEC-2024 Ref: 32431958",121256,0,123894.26
+16/12/2024,WITHDRAWAL,West RFT,0,70000,2638.26
+12/12/2024,DEPOSIT,Distribution from Partners Group Global Value Fund (AUD) - Wholesale Units (ETL0276AU),273.52,0,72638.26
+6/12/2024,WITHDRAWAL,To WES RFT AC,0,100000,72364.74
+29/11/2024,GROSS_INTEREST,Interest,552.07,0,172364.74
+27/11/2024,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),773.79,0,171812.67
+25/11/2024,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),87.1,0,171038.88
+25/11/2024,DEPOSIT,Distribution from HAMILTON LANE GLOBAL PRIVATE ASSETS FUND (AUD) (Hedged) (PIM1015AU),409.85,0,170951.78
+21/11/2024,DEPOSIT,Distribution from CI Australian Equities Fund (CIP0005AU),24.63,0,170541.93
+21/11/2024,DEPOSIT,Distribution from Brandywine Gbl Opportunistic Fixed Inc Fnd - Class A (SSB0014AU),17.42,0,170517.3
+20/11/2024,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),99.69,0,170499.88
+18/11/2024,DEPOSIT,Distribution from Janus Henderson Australian Fixed Interest Fund (IOF0046AU),31.65,0,170400.19
+12/11/2024,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),42.28,0,170368.54
+12/11/2024,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),26.28,0,170326.26
+12/11/2024,DEPOSIT,Distribution from Bennelong ex 20 Australian Equities Fund (BFL0004AU),44.55,0,170299.98
+11/11/2024,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),99.93,0,170255.43
+11/11/2024,DEPOSIT,Distribution from Payden Global Income Opportunities Fund (GSF0008AU),23.44,0,170155.5
+8/11/2024,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),832.45,0,170132.06
+8/11/2024,DEPOSIT,Distribution from Resolution Capital Global Property Securities Fund - Unhedged Series II - Class A (IOF0184AU),1019.91,0,169299.61
+31/10/2024,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),342.31,0,168279.7
+31/10/2024,GROSS_INTEREST,Interest,584.14,0,167937.39
+23/10/2024,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),52.67,0,167353.25
+22/10/2024,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),768.67,0,167300.58
+22/10/2024,DEPOSIT,Distribution from Payden Global Income Opportunities Fund (GSF0008AU),2.95,0,166531.91
+21/10/2024,DEPOSIT,Distribution from MACQUARIE TRUE INDEX AUSTRALIAN FIXED INTEREST FUND (MAQ0211AU),76.04,0,166528.96
+21/10/2024,DEPOSIT,Distribution from Janus Henderson Australian Fixed Interest Fund (IOF0046AU),114.29,0,166452.92
+16/10/2024,WITHDRAWAL,SEP-24 QTR MAP Private Wealth - Invoice 204132,0,6288.12,166338.63
+15/10/2024,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From USTB PAYMENT, Ref: OCT24/00802545",861.82,0,172626.75
+15/10/2024,DEPOSIT,Distribution from Partners Group Global Value Fund (AUD) - Wholesale Units (ETL0276AU),110.72,0,171764.93
+10/10/2024,DEPOSIT,Distribution from PIMCO Global Credit Fund - Wholesale Class (ETL0019AU),796.36,0,171654.21
+10/10/2024,DEPOSIT,Distribution from CI Australian Equities Fund (CIP0005AU),2631.74,0,170857.85
+1/10/2024,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From LSF, Ref: 001326088876",2963.88,0,168226.11
+30/09/2024,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),770.81,0,165262.23
+30/09/2024,GROSS_INTEREST,Interest,567.84,0,164491.42
+26/09/2024,DEPOSIT,Distribution from HAMILTON LANE GLOBAL PRIVATE ASSETS FUND (AUD) (Hedged) (PIM1015AU),388.36,0,163923.58
+13/09/2024,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),153.01,0,163535.22
+30/08/2024,GROSS_INTEREST,Interest,513.56,0,163382.21
+27/08/2024,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),39.75,0,162868.65
+27/08/2024,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),26.17,0,162828.9
+26/08/2024,DEPOSIT,Distribution from Brandywine Gbl Opportunistic Fixed Inc Fnd - Class A (SSB0014AU),15.65,0,162802.73
+22/08/2024,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),777.45,0,162787.08
+21/08/2024,DEPOSIT,Distribution from CI Australian Equities Fund (CIP0005AU),26.11,0,162009.63
+21/08/2024,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),98.26,0,161983.52
+21/08/2024,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),92.43,0,161885.26
+20/08/2024,DEPOSIT,Distribution from Janus Henderson Australian Fixed Interest Fund (IOF0046AU),29.96,0,161792.83
+20/08/2024,DEPOSIT,Distribution from Payden Global Income Opportunities Fund (GSF0008AU),22.24,0,161762.87
+20/08/2024,DEPOSIT,Distribution from Partners Group Global Value Fund (AUD) - Wholesale Units (ETL0276AU),7723.95,0,161740.63
+16/08/2024,DEPOSIT,Distribution from Palisade's Unlisted Infrastructure Trust (WHT3724AU),4090.78,0,154016.68
+9/08/2024,DEPOSIT,Distribution from RESOLUTION CAPTL GLBL PRPTY SECRTS FND (UNHDGD) SERIES II (IOF0184AU),79.81,0,149925.9
+8/08/2024,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),49.84,0,149846.09
+8/08/2024,DEPOSIT,Distribution from Bennelong ex 20 Australian Equities Fund (BFL0004AU),45.49,0,149796.25
+6/08/2024,DEPOSIT,Distribution from CI Australian Equities Fund (CIP0005AU),9216.39,0,149750.76
+31/07/2024,GROSS_INTEREST,Interest,470.03,0,140534.37
+26/07/2024,DEPOSIT,Distribution from Fidelity Future Leaders Fund (FID0026AU),472.59,0,140064.34
+26/07/2024,DEPOSIT,Distribution from MAGELLAN GLOBAL FUND (MGE0001AU),0.01,0,139591.75
+24/07/2024,DEPOSIT,Distribution from Magellan Infrastructure Fund (Unhedged) (MGE0006AU),2937.81,0,139591.74
+24/07/2024,DEPOSIT,Distribution from RESOLUTION CAPTL GLBL PRPTY SECRTS FND (UNHDGD) SERIES II (IOF0184AU),543.63,0,136653.93
+24/07/2024,DEPOSIT,Distribution from QVG Opportunities Fund (QVG9204AU),4017.57,0,136110.3
+24/07/2024,WITHDRAWAL,JUN-24 QTR MAP Private Wealth - Invoice 194006,0,6149.9,132092.73
+22/07/2024,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),776.84,0,138242.63
+22/07/2024,DEPOSIT,Distribution from Bennelong ex 20 Australian Equities Fund (BFL0004AU),5662.76,0,137465.79
+22/07/2024,DEPOSIT,Distribution from ATLAS Infrastructure Australian Feeder Fund -  AUD Unhedged (PIM6769AU),4447.93,0,131803.03
+18/07/2024,DEPOSIT,Distribution from Kapstream Wholesale Absolute Return Income Fund (HOW0052AU),820.15,0,127355.1
+17/07/2024,DEPOSIT,Distribution from MACQUARIE TRUE INDEX AUSTRALIAN FIXED INTEREST FUND (MAQ0211AU),264.32,0,126534.95
+17/07/2024,DEPOSIT,Distribution from Greencape Wholesale High Conviction Fund (HOW0035AU),2873.36,0,126270.63
+17/07/2024,DEPOSIT,Distribution from PIMCO Global Credit Fund - Wholesale Class (ETL0019AU),777.74,0,123397.27
+16/07/2024,DIRECT_CREDIT_DIVIDEND,"DIVIDEND From USTB PAYMENT, Ref: JUL24/00801652",771.53,0,122619.53
+16/07/2024,DEPOSIT,Distribution from HAMILTON LANE GLOBAL PRIVATE ASSETS FUND (AUD) (Hedged) (PIM1015AU),8.45,0,121848
+16/07/2024,DEPOSIT,Distribution from HAMILTON LANE GLOBAL PRIVATE ASSETS FUND (AUD) (Hedged) (PIM1015AU),9.3,0,121839.55
+16/07/2024,DEPOSIT,Distribution from HAMILTON LANE GLOBAL PRIVATE ASSETS FUND (AUD) (Hedged) (PIM1015AU),3.57,0,121830.25
+15/07/2024,DEPOSIT,Distribution from HAMILTON LANE GLOBAL PRIVATE ASSETS FUND (AUD) (Hedged) (PIM1015AU),389.53,0,121826.68
+10/07/2024,DEPOSIT,Distribution from Payden Global Income Opportunities Fund (GSF0008AU),413.12,0,121437.15
+28/06/2024,GROSS_INTEREST,Interest,376.53,0,121024.03
+25/06/2024,DEPOSIT,Distribution from Partners Group Global Value Fund (AUD) - Wholesale Units (ETL0276AU),111.39,0,120647.5
+18/06/2024,DEPOSIT,Distribution from Ares Diversified Credit Fund (HOW7354AU),783.41,0,120536.11
